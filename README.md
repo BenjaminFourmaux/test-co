@@ -25,4 +25,4 @@ Une fois le programme lancé voici ce que vous allez voir.
 - y     Pour Yes (oui) Créer le fichier .txt pour l'enregistrement des logs.
 - n     Pour No (non)  N'enregistre pas les logs.
 
-** Résultat du test **
+**Résultat du test**
