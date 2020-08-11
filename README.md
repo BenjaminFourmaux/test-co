@@ -3,6 +3,12 @@ Programme en btach qui permet de faire des tests de connexion (ping) automatisé
 
 Ce programme a été developpé suite à un problème de connexion à Internet (problème chez le FAI) afin de détermnier la durée de la panne (ce nuit là, le programme à été créé 1 H après le debut de la panne à 23H30 et la panne à durré jusqu'a 5H01).
 
+## Fonctionnalités
+Liste des fonctionnalité implémentés:
+- [x] Changement de la couleur de la police de la console en fonction du résultat su test.
+- [x] (log) Sauvegarde des évenements dans un fichier .txt de log
+- [x] Affichage de la date et l'heure des evenements. Afin de détermnier le début, la fin et la durée de la panne de connexion.
+
 ## Utilisation du programme
 Avant d'utiliser le programme, veuillez changer le répertoire de sauvegarde des fichier de log à la variable racineLog:
 ```batch
@@ -31,6 +37,6 @@ Une fois le programme lancé voici ce que vous allez voir.
 - Si le test n'a pas réussi à se connecter Alors il refait les tests en boucle jusqu'a temps qu'il arrive à se connecter et le test de la console passe en rouge. 
 
 ## Versions (actuelle stable: 2.0)
-- __2.0__: Liste des fonctionnalités:
+- __2.0__ : Ajout de fonctionnalités. Liste des fonctionnalités:
     * Ajout de la fonctionnalité de log qui permet d'enregistrer les événements des tests dans une fichier text.
     * Modiffication de la couleur de la police de la console: Vert = le test a réussi à se connecter à Internet Rouge = erreur de connexion à Internet.
