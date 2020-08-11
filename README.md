@@ -11,10 +11,10 @@ set version=version 2.0
 set racineLog=C:\Users\exempleUser\Documents\test-co-log.txt
 set colorDef=07
 ```
-Une fois le programme lancé voici ce que vous allez voir.  
+Une fois le programme lancé voici ce que vous allez voir.    
 *Première question:*  
 " Voulez-vous lancer le test de connexion a internet ? (y/n/b/?)" Cette question vous demande ce qu'il faut faire.  
-*Choix de réponse:*  
+*Choix de réponse:*
 - y     Pour Yes (oui) lance alorsle test de connexion.
 - n     Pour No (non) ferme l'app.
 - b     Pour Boucle  fait une boucle de test (!! boucle infini !!) *en béta*.
