@@ -19,6 +19,7 @@ Une fois le programme lancé voici ce que vous allez voir.
 - n     Pour No (non) ferme l'app.
 - b     Pour Boucle  fait une boucle de test (!! boucle infini !!) *en béta*.
 - ?     Pour Aide  Affiche l'aide.  
+
 *Deuxième question: (si première répondu par y)*
 " Voulez-vous enregistrer les logs ? (y/n)" Vous demande si vous voulez les logs dans un fichier .txt.  
 *Choix de réponse:*
