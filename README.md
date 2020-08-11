@@ -28,4 +28,9 @@ Une fois le programme lancé voici ce que vous allez voir.
 
 **Résultat du test**
 - Si le test à réussi à se connecter à internet Alors la boucle de test s'arrete et affiche "CONNEXION A x.x.x.x OK !" et le text de la console passe en vert.
-- Si le test n'a pas réussi à se connecter Alors il refait les tests en boucle jusqu'a temps il arrive à se connecter et le test de la console passe en rouge. 
+- Si le test n'a pas réussi à se connecter Alors il refait les tests en boucle jusqu'a temps qu'il arrive à se connecter et le test de la console passe en rouge. 
+
+## Versions (actuelle stable: 2.0)
+-__2.0__: Liste des fonctionnalités:
+    * Ajout de la fonctionnalité de log qui permet d'enregistrer les événements des tests dans une fichier text.
+    * Modiffication de la couleur de la police de la console: Vert = le test a réussi à se connecter à Internet Rouge = erreur de connexion à Internet.
