@@ -5,12 +5,12 @@ Ce programme a été developpé suite à un problème de connexion à Internet (
 
 ## Fonctionnalités
 Liste des fonctionnalité implémentés:
-- [x] Changement de la couleur de la police de la console en fonction du résultat su test.
+- [x] Changement de la couleur de la police de la console en fonction du résultat du test.
 - [x] (log) Sauvegarde des évenements dans un fichier .txt de log
-- [x] Affichage de la date et l'heure des evenements. Afin de détermnier le début, la fin et la durée de la panne de connexion.
+- [x] Affichage de la date et l'heure des evenements. Afin de déterminer le début, la fin et la durée de la panne de connexion.
 
 ## Utilisation du programme
-Avant d'utiliser le programme, veuillez changer le répertoire de sauvegarde des fichier de log à la variable racineLog:
+Avant d'utiliser le programme, veuillez changer le répertoire de sauvegarde des fichiers de log à la variable racineLog:
 ```batch
 ::Déclartion des variables
 set version=version 2.0
