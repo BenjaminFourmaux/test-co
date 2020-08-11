@@ -27,3 +27,5 @@ Une fois le programme lancé voici ce que vous allez voir.
 - n     Pour No (non)  N'enregistre pas les logs.
 
 **Résultat du test**
+- Si le test à réussi à se connecter à internet Alors la boucle de test s'arrete et affiche "CONNEXION A x.x.x.x OK !" et le text de la console passe en vert.
+- Si le test n'a pas réussi à se connecter Alors il refait les tests en boucle jusqu'a temps il arrive à se connecter et le test de la console passe en rouge. 
