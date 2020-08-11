@@ -13,7 +13,7 @@ set colorDef=07
 ```
 Une fois le programme lancé voici ce que vous allez voir.  
 *Première question:*  
-- Voulez-vous lancer le test de connexion a internet ? (y/n/b/?) Cette question vous demande ce qu'il faut faire.  
+"- Voulez-vous lancer le test de connexion a internet ? (y/n/b/?)" Cette question vous demande ce qu'il faut faire.  
 *Choix de réponse:*  
 - y     Pour Yes (oui) lance alorsle test de connexion.
 - n     Pour No (non) ferme l'app.
