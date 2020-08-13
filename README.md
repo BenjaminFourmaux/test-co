@@ -8,7 +8,7 @@ Liste des fonctionnalité implémentés:
 - [x] Changement de la couleur de la police de la console en fonction du résultat du test.
 - [x] (log) Sauvegarde des évenements dans un fichier .txt de log.
 - [x] Affichage de la date et l'heure des evenements. Afin de déterminer le début, la fin et la durée de la panne de connexion.
-- [] Affichage de la durée de la panne.
+- [ ] Affichage de la durée de la panne.
 
 ## Utilisation du programme
 Avant d'utiliser le programme, veuillez changer le répertoire de sauvegarde des fichiers de log à la variable racineLog:
