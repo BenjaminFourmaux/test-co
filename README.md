@@ -9,6 +9,7 @@ Liste des fonctionnalité implémentés:
 - [x] (log) Sauvegarde des évenements dans un fichier .txt de log.
 - [x] Affichage de la date et l'heure des evenements. Afin de déterminer le début, la fin et la durée de la panne de connexion.
 - [ ] Affichage de la durée de la panne.
+- [ ] Possibilité de lancer un test avec un paramètre de lancement (pour l'automatisation des tests)
 
 ## Utilisation du programme
 Avant d'utiliser le programme, veuillez changer le répertoire de sauvegarde des fichiers de log à la variable racineLog:
