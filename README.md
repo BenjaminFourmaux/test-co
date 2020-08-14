@@ -44,6 +44,7 @@ Une fois le programme lancé voici ce que vous allez voir.
     * Ajout d'un paramètre pour permettre l'automatisation du test (ex: déclenchement par event windows.
     * Complétion de l'aide pour l'usage du paramètre.
     * Modification de l'affichage des logs dans le fichier .txt
+    * Optimisation et correction du code
 - __2.0__ : Ajout de fonctionnalités. Liste des fonctionnalités:
     * Ajout de la fonctionnalité de log qui permet d'enregistrer les événements des tests dans une fichier text.
     * Modiffication de la couleur de la police de la console: Vert = le test a réussi à se connecter à Internet Rouge = erreur de connexion à Internet.
