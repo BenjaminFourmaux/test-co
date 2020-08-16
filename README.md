@@ -40,7 +40,7 @@ Une fois le programme lancé voici ce que vous allez voir.
 
 ## Versions (actuelle stable: 2.0)
 - __2.5__ (bientôt) : 
-    * Ajout de l'affichage de la durée de la panne. (dans les logs).
+    * ~~Ajout de l'affichage de la durée de la panne. (dans les logs).~~
     * Ajout d'un paramètre pour permettre l'automatisation du test (ex: déclenchement par event windows.
     * Complétion de l'aide pour l'usage du paramètre.
     * Modification de l'affichage des logs dans le fichier .txt
