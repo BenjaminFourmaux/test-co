@@ -38,10 +38,10 @@ Une fois le programme lancé voici ce que vous allez voir.
 - Si le test à réussi à se connecter à internet Alors la boucle de test s'arrete et affiche "CONNEXION A x.x.x.x OK !" et le text de la console passe en vert.
 - Si le test n'a pas réussi à se connecter Alors il refait les tests en boucle jusqu'a temps qu'il arrive à se connecter et le test de la console passe en rouge. 
 
-## Versions (actuelle stable: 2.0)
+## Versions (actuelle stable: 2.5)
 - __2.5__ (bientôt) : 
     * ~~Ajout de l'affichage de la durée de la panne. (dans les logs).~~
-    * Ajout d'un paramètre pour permettre l'automatisation du test (ex: déclenchement par event windows.
+    * Ajout d'un paramètre pour permettre l'automatisation du test (ex: déclenchement par event windows).
     * Complétion de l'aide pour l'usage du paramètre.
     * Modification de l'affichage des logs dans le fichier .txt
     * Optimisation et correction du code
